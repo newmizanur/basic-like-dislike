@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+.Home {
+  background-color: #1f3052;
+  color: #ffffff;
+  padding: 10px 5px;
+}
+.Home-header {
+  background-color: black;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+}
+.like-button {
+  background-color: rebeccapurple;
+  font-size: 18px;
+  margin-right: 10px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.dislike-button {
+  background-color: rebeccapurple;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.active {
+  background-color: green !important;
+}
